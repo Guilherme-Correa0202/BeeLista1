@@ -19,4 +19,5 @@ while ($tempo > 0) {
 }
 
 echo $horario[0] . ":" . $horario[1] . ":" . $horario[2] . PHP_EOL;
+
 ?>

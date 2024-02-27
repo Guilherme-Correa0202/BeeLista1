@@ -5,4 +5,5 @@ $B = intval(readline());
 $SOMA = $A + $B;
 
 echo "SOMA = ".$SOMA. PHP_EOL;
+
 ?>

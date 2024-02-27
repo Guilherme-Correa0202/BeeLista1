@@ -10,4 +10,5 @@ echo "CIRCULO: " . number_format($circulo, 3, '.', '') . PHP_EOL;
 echo "TRAPEZIO: " . number_format($trapezio, 3, '.', '') . PHP_EOL;
 echo "QUADRADO: " . number_format($quadrado, 3, '.', '') . PHP_EOL;
 echo "RETANGULO: " . number_format($retangulo, 3, '.', ''). PHP_EOL;
+
 ?>

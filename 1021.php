@@ -71,4 +71,5 @@ echo $moedas[2] . " moeda(s) de R$ 0.25" . PHP_EOL;
 echo $moedas[3] . " moeda(s) de R$ 0.10" . PHP_EOL;
 echo $moedas[4] . " moeda(s) de R$ 0.05" . PHP_EOL;
 echo $moedas[5] . " moeda(s) de R$ 0.01" . PHP_EOL;
+
 ?>

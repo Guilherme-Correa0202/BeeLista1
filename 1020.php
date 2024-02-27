@@ -21,4 +21,5 @@ while ($idade > 0) {
 echo $data[0] . " ano(s)" . PHP_EOL;
 echo $data[1] . " mes(es)" . PHP_EOL;
 echo $data[2] . " dia(s)" . PHP_EOL;
+
 ?>

@@ -6,5 +6,5 @@ $D = intval(readline());
 $DIFERENCA = ($A * $B - $C * $D);
  
  echo "DIFERENCA = ". $DIFERENCA. PHP_EOL;
-
+ 
 ?>
